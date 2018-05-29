@@ -1,120 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7dc54d9-b45c-435a-a0fd-aab9fc5ec1a9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/lab-assignment-10-javierhuertay.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/movies.coffee" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/movies.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/callbacks_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/movies_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/helpers/movies_helper.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/movie.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/_form.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/_movie.json.jbuilder" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/edit.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/index.json.jbuilder" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/new.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/show.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/movies/show.json.jbuilder" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bin/yarn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20180529165607_create_movies.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20180529170050_devise_create_users.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20180529173356_add_name_to_user.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20180529173429_add_provider_to_user.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20180529173454_add_uid_to_user.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/movies_controller_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/movies.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/users.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/movie_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/system/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/system/movies_test.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/.keep" />
-    </list>
+    <list default="true" id="c7dc54d9-b45c-435a-a0fd-aab9fc5ec1a9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -422,16 +309,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527613400465</updated>
-      <workItem from="1527613407020" duration="7127000" />
+      <workItem from="1527613407020" duration="7232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7127000" />
+    <option name="totallyTimeSpent" value="7232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2495114" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -439,7 +325,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
