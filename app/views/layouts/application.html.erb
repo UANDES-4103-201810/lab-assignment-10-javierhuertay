@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LabAssignment10Javierhuertay</title>
+    <%= csrf_meta_tags %>
+    <a href="/users/sign_in" class="mybutton">Log in!</a>
+    <a href="/users/sign_out" class="mybutton1">Log out</a>
+    <style>
+    .mybutton {
+
+    padding: 30px;
+    display:block;
+    background-color: green;
+    text-align:center;
+    position: absolute;
+      top: 10px;
+      right: 113.5px;
+    }
+    .mybutton1 {
+
+      padding: 30px;
+      display:block;
+      background-color: green;
+      text-align:center;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+    </style>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= yield %>
+
+    <script>
+        window.fbAsyncInit = function() {
+            FB.init({
+                appId      : '238490363374694',
+                xfbml      : true,
+                version    : 'v3.0'
+            });
+            FB.AppEvents.logPageView();
+        };
+
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+  </body>
+</html>
